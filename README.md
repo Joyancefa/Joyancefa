@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a self-taught Front-End developer living in :fr: and trying my best to contribute more to the tech community :blush:. 
+
 <!--
 **Joyancefa/Joyancefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
