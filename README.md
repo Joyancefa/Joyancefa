@@ -6,7 +6,7 @@ I am a **self-taught**  👩🏿 Front-End developer living in :fr: and trying m
 
 - 🌱 I love understanding how things work and why they are the way they are. 
 
-- 🥅 In 2020, I want to deepen my understanding of **JS/React** through learning / teaching.
+- 🥅 In 2021, I want to create more educational content through my blog [FrontendJoy](https://frontendjoy.com/).
 
 - 🔭 I occasionally build products like [Sookind](https://sookind-landing-page.web.app/).
 
